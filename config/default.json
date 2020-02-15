@@ -1,5 +1,4 @@
 {
   "mongoURI": "mongodb+srv://sean123:sean123@devconnectormern-cvc2l.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken",
-  "OAUTH-TOKEN": "6822b21ad1c81b2a2d7019ebbb6e093a4774bfa3"
+  "jwtSecret": "mysecrettoken"
 }
