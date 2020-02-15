@@ -1,5 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://sean123:sean123@devconnectormern-cvc2l.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken",
-  "thisisachange": "newchange"
-}
